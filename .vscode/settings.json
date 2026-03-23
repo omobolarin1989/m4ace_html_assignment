@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Mud Light (rainglow)",
-    "workbench.iconTheme": "Monokai Classic Monochrome Icons"
+    "workbench.iconTheme": "Monokai Classic Monochrome Icons",
+    "liveServer.settings.port": 5501
 }
